@@ -1,0 +1,19 @@
+{
+  "name": "Electronica Blog",
+  "version": "0.0.1",
+  "description": "Blog for Introduction of Digital Electronics subjects",
+  "main": "index.js",
+  "authors": {
+    "name": "Carlos Polanco",
+    "email": "carlosfollows@gmail.com"
+  },
+  "repository": "git@github.com:carlospgraciano/electronica_blog.git/Electronica Blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
