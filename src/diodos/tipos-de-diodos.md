@@ -24,7 +24,7 @@ Un diodo zener es un semiconductor que se distingue por su capacidad de mantener
 
 ## Diodo Varactor
 
-![Foto de diodo varactor](/images/tipo_de_diodos/diodo_varactor.jpg)
+![Foto de diodo varactor](/images/tipo_de_diodos/diodo_varactor.png)
 
 El diodo varactor también conocido como diodo varicap o diodo de sintonía. Es un dispositivo semiconductor que trabaja polarizado inversamente y actúa como condensadores variables controladas por voltaje. Esta característica los hace muy útiles como elementos de sintonía en receptores de radio y televisión. Son también muy empleados en osciladores, multiplicadores, amplificadores, generadores de FM y otros circuitos de alta frecuencia. Una variante de los mismos son los diodos SNAP, empleados en aplicaciones de UHF y microondas.
 
