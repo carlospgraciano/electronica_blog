@@ -1,3 +1,0 @@
-# Sobre nosotros
-
-Contenido aquí

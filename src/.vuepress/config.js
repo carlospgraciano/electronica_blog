@@ -44,10 +44,6 @@ module.exports = {
       {
         text: 'Diodos',
         link: '/diodos/',
-      },
-      {
-        text: 'Sobre nosotros',
-        link: '/sobre-nosotros/',
       }
     ],
     sidebar: {
