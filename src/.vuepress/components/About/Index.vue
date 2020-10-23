@@ -15,7 +15,7 @@
     <div class="col">
       <img src="/images/sobre_nosotros/dimas_aguero.jpeg" alt="Foto de Dimas Aguero" class="student-image">
       <h3 class="student-name">
-        Dimas Aguero (19-0748)
+        Dimas Agüero (19-0748)
       </h3>
       <p class="student-description">
         Estudiante de TIC en UNIBE y egresado del ITLA (Software)
